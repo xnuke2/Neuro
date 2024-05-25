@@ -10,3 +10,4 @@ lab4/data/MNIST/raw/train-labels-idx1-ubyte
 lab4/data/MNIST/raw/train-labels-idx1-ubyte.gz
 lab4/hymenoptera_data/train/ants/0013035.jpg
 lab4/CnNet.ckpt
+lab5/data
