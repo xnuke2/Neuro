@@ -1,0 +1,11 @@
+lab4/data
+lab4/hymenoptera_data
+lab4/data/MNIST/raw/t10k-images-idx3-ubyte
+lab4/data/MNIST/raw/t10k-labels-idx1-ubyte
+lab4/data/MNIST/raw/train-images-idx3-ubyte
+lab4/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+lab4/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+lab4/data/MNIST/raw/train-images-idx3-ubyte.gz
+lab4/data/MNIST/raw/train-labels-idx1-ubyte
+lab4/data/MNIST/raw/train-labels-idx1-ubyte.gz
+lab4/hymenoptera_data/train/ants/0013035.jpg
